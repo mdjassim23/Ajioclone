@@ -12,10 +12,6 @@ We have created the clone of Ajio.com with all it's main functions like- login &
 ![alt text](https://github.com/vshubhams/Ajio-clone/blob/master/screenshots/Screenshot%20(68).png)
 ![alt text](https://github.com/vshubhams/Ajio-clone/blob/master/screenshots/Screenshot%20(71).png)
 
-### Team members:-
-#### Aaditya Kumar(nj2_003) [View GitHub profile](https://github.com/onlyaditya)
-#### Shubham(nj2_118) [View GitHub profile](https://github.com/vshubhams)
-#### Pallav jain(nj2_151)  [View GitHub profile](https://github.com/pallav1998)
 ### Technologies used:
 **HTML, CSS, JavaScript**
 ### Pages Designed:
